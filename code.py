@@ -1,1 +1,1 @@
-print "This is my newBranch"
+print "Merging conflict master branch"
